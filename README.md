@@ -21,4 +21,4 @@ The *SkewGraphics* class provides support for **skew** transformations in **PIXI
 
 ### About
 
-- The *SkewGraphics* class is based on *Graphics* class in PIXI v3.0.10
+- The *SkewGraphics* class is based on *Graphics* class in PIXI *3.0.10*.
