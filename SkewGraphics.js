@@ -51,8 +51,8 @@ class SkewGraphics extends PIXI.Graphics {
 		// check for skew ?
 		if( this.skew.x !== 0 || this.skew.y !== 0 ) {
 
-			const x = PIXI.DEG_TO_RAD(this.skew.x);
-			const y = PIXI.DEG_TO_RAD(this.skew.y);
+			const x = PIXI.DEG_TO_RAD * this.skew.x;
+			const y = PIXI.DEG_TO_RAD * this.skew.y;
 
 			const ma = a + c * y;
 			const mb = b + d * y;
