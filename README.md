@@ -1,6 +1,6 @@
-## Skewable Graphics for PIXI 
+## Skewable Graphics for PIXI JS
 
-The *SkewGraphics* class provides support for **skew** transformations in **PIXI**.
+The *SkewGraphics* class provides support for **skew** transformations with **PIXI**.
 
 
 ### How to:
